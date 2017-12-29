@@ -1,2 +1,2 @@
-# Tutorial-Crear-fuentes-con-FontForge-e-Inkscape
-Anexos del tutorial Crear fuentes con FontForge e Inkscape
+# Tutorial-Crear-True-type-fonts-con-FontForge-e-Inkscape
+Anexos del tutorial Crear True type fonts con FontForge e Inkscape
